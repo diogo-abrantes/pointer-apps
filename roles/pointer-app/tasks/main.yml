@@ -1,4 +1,3 @@
----
 # tasks file for pointer-app
 ---
 - name: Instalando Docker
